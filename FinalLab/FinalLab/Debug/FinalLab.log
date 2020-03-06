@@ -1,0 +1,11 @@
+﻿  FinalLab.cpp
+c:\str2018\projects\finallab\finallab\finallab.cpp(944): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\str2018\projects\finallab\finallab\finallab.cpp(1086): warning C4474: 'printf' : too many arguments passed for format string
+  c:\str2018\projects\finallab\finallab\finallab.cpp(1086): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+c:\str2018\projects\finallab\finallab\finallab.cpp(1088): warning C4474: 'printf' : too many arguments passed for format string
+  c:\str2018\projects\finallab\finallab\finallab.cpp(1088): note: placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+c:\str2018\projects\finallab\finallab\finallab.cpp(967): warning C4101: 'pos': unreferenced local variable
+c:\str2018\projects\finallab\finallab\finallab.cpp(1040): warning C4101: 'a': unreferenced local variable
+c:\str2018\projects\finallab\finallab\finallab.cpp(1036): warning C4101: 'pos': unreferenced local variable
+c:\str2018\projects\finallab\finallab\finallab.cpp(1222): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FinalLab.vcxproj -> C:\str2018\Projects\FinalLab\Debug\FinalLab.exe
